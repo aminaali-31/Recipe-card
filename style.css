@@ -176,7 +176,7 @@ th, td {
   padding: 8px;
 
 }
-@media only screen and (max-width:375px){
+@media only screen and (max-width:375erypx){
     body{
     display: flex;
     flex-direction: column;
